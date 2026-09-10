@@ -1,0 +1,9 @@
+{
+  "name":"16通りメーカー",
+  "short_name":"16通りメーカー",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f4f6fa",
+  "theme_color":"#315efb",
+  "lang":"ja"
+}
